@@ -1,5 +1,11 @@
 # parse_html
 
+Basic DOM parser. It can create a tree and output it as a JSON string.
+
+TODO:
+
+- Add searching capabilities
+
 ## Project setup
 ```
 yarn install
@@ -9,16 +15,3 @@ yarn install
 ```
 yarn serve
 ```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
